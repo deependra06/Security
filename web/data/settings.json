@@ -1,0 +1,19 @@
+{
+    "camera_id": 0,
+    "frame_width": 640,
+    "frame_height": 480,
+    "fps": 10,
+    "email_enabled": true,
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "smtp_username": "deepaksheoran195@gmail.com",
+    "smtp_password": "qqtmidawbwzjgbnf",
+    "sender_email": "deepaksheoran195@gmail.com",
+    "recipient_email": "dkumar05003@gmail.com",
+    "max_snapshots": 100,
+    "max_events": 100,
+    "auto_cleanup": false,
+    "motion_sensitivity": 0.5,
+    "face_recognition_threshold": 0.5,
+    "notification_interval": 60
+}
